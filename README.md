@@ -1,6 +1,11 @@
 # graphs
 
-A new Flutter project.
+This is a Flutter Application named Weekly Expenses which will help you track your weekly expenditure and will also give statstical analysis of daily expenses by using a Bar Chart and a Pie Chart. 
+
+The backend is connected to Firestore which has all the values needed and can be updated as an when required.
+
+Some the images of my App is attched below :
+
 
 ## Getting Started
 
