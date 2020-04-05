@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997855439562",
+    "firebase_url": "https://graphs-c6f37.firebaseio.com",
+    "project_id": "graphs-c6f37",
+    "storage_bucket": "graphs-c6f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997855439562:android:d36cbfe77e837384422233",
+        "android_client_info": {
+          "package_name": "com.example.graphs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997855439562-ur63fcbrugr85eastut37p840rl5ne33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrQ3yaZDemaxEMWPLqnTO3iSj0-RuIzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997855439562-ur63fcbrugr85eastut37p840rl5ne33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
